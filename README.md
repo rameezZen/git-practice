@@ -20,7 +20,3 @@
 - Create feature branches for new changes
 - Merge branches using pull requests when possible
 - Resolve conflicts carefully and test after merging
-
-## Notes
-
-This is a learning-focused repository. The content is intentionally simple to focus on Git workflows rather than application code.
