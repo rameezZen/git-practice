@@ -12,3 +12,11 @@
 2. Navigate into the project directory
 3. Make changes to files and commit them locally
 4. Push changes to the remote repository
+
+## Usage Guidelines
+
+- Make small, meaningful commits
+- Use clear and descriptive commit messages
+- Create feature branches for new changes
+- Merge branches using pull requests when possible
+- Resolve conflicts carefully and test after merging
